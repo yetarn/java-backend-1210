@@ -11,7 +11,7 @@ public class Main {
         char g='A';
         boolean h=true;
 
-        System.out.println ("Byte is " + a);
+        System.out.println (b + a);
         System.out.print ("Short is " + b +"\n");
         System.out.printf ("Int is " + c + "\n");
         System.out.println ("Long is " + d );
