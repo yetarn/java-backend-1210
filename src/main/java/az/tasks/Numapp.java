@@ -1,4 +1,4 @@
-package az.turingacademy;
+package az.tasks;
 
 import java.util.Scanner;
 
