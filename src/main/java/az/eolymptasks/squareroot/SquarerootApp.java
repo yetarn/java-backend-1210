@@ -1,10 +1,10 @@
-package az.eolymptasks;
+package az.eolymptasks.squareroot;
 
 import java.util.Scanner;
 
 import static java.lang.Math.sqrt;
 
-public class squareroot {
+public class SquarerootApp {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter positive 3 digit number: ");

@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.season;
 
 import java.util.Scanner;
 
-    public class season {
+    public class SeasonApp {
         public static void main(String[]  args) {
             Scanner scanner = new Scanner (System.in);
 

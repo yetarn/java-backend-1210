@@ -1,4 +1,4 @@
-package az.tasks;
+package az.tasks.november8;
 
 import java.util.Scanner;
 

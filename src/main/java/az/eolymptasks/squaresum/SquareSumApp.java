@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.squaresum;
 
 import java.util.Scanner;
 
-public class squaresum {
+public class SquareSumApp {
 
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);

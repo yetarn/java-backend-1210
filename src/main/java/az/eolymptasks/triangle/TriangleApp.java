@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.triangle;
 
 import java.util.Scanner;
 
-public class Triangle {
+public class TriangleApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();

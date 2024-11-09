@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.thebank;
 
 import java.util.Scanner;
 
-public class thebank {
+public class TheBankApp {
     public static void main(String[] args){
          Scanner scanner = new Scanner (System.in);
          System.out.println("Write the amount of Buratino's money, for calculating his age: ");

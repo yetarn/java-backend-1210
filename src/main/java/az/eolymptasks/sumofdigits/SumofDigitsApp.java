@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.sumofdigits;
 
 import java.util.Scanner;
 
-public class sumofdigits {
+public class SumofDigitsApp {
         public static void main(String[] args){
             Scanner scanner = new Scanner(System.in);
             System.out.println("Enter 4 digit number: ");
