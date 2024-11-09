@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.quarter;
 
 import java.util.Scanner;
 
-public class quarter {
+public class Quarterapp {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
@@ -20,3 +20,4 @@ public class quarter {
         }
     }
 }
+

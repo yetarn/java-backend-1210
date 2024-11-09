@@ -1,8 +1,8 @@
-package az.eolymptasks;
+package az.eolymptasks.firstorlast;
 
 import java.util.Scanner;
 
-public class firstorlast {
+public class FirstOrLastApp {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println ("Write 3 digit number");
