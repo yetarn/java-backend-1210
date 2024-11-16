@@ -5,8 +5,30 @@ import java.util.Random;
 
 public class ClassroomPlaceApp {
     public static void main(String[] args) {
-        String[] ad = {"Yetər", "Rəvan Ə", "Rəvan A", "Lalə", "Vüsal", "Əli", "İbrahim", "Tural", "Rəna", "Dilbər", "Aynur", "Raminə", "Seyran", "Famil", "Gülər", "Ruslan", "Ella", "Nihad", "Məhəmməd", "Nigar"};
-        int[] num = new int[20];
+        String[] ad = {"Rəvan Agayev",
+                "Gülər Əbilova",
+                "Yetər Nəbiyeva",
+                "Mirzəyeva Dilbər",
+                "Ruslan Çərkəzov",
+                "Sənubər Abbasova",
+                "Fəxri Babayev",
+                "Lalə Həmidova",
+                "Günay İskəndərova",
+                "Ramina Səlimova",
+                "Tural Nəzərov",
+                "Rəvan Əliyev",
+                "İbrahim Ələkbərov",
+                "Ella Piriyeva",
+                "Aynur Məmmədova",
+                "Ömər Ələkbərov",
+                "Famil Məmmədov",
+                "Rena Mehdiyeva",
+                "ƏliMurad",
+                "Seyran Xəlilzadə",
+                "Hüseynov Məhəmməd",
+                "Pərvin Bədəlova",
+                "Nicat Məcidov"};
+        int[] num = new int[23];
         for (int i = 0; i < num.length; i++) {
             num[i] = i + 1;
         }
