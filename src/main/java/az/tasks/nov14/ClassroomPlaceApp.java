@@ -1,6 +1,5 @@
 package az.tasks.nov14;
 
-import java.util.Collections;
 import java.util.Random;
 
 public class ClassroomPlaceApp {
