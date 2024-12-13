@@ -11,6 +11,7 @@ public class BankApp {
         accounts[4] = new BankAccount("Adam5", 3000, 104);
 
         for (BankAccount account : accounts) {
+
             account.displayInfo();
             System.out.println();
         }
