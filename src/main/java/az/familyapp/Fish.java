@@ -1,9 +1,10 @@
 package az.familyapp;
+import java.util.Set;
 
 public class Fish extends Pet {
 
-    public Fish(Species species, String nickName, int age, int trickLevels, String[] habits) {
-        super(species, nickName, age, trickLevels, habits);
+    public Fish(Species species, String nickName, int age, int trickLevel, Set<String> habits) {
+        super(species, nickName, age, trickLevel, habits);
     }
 
     @Override
